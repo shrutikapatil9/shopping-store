@@ -4,7 +4,7 @@ A stylish single-page fashion shopping website built with React. Users can brows
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Netlify]()  
+🔗 [View Live on Netlify](https://onlinestore090.netlify.app/)  
 
 
 ---
