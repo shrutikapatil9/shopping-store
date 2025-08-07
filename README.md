@@ -8,6 +8,7 @@ A stylish single-page fashion shopping website built with React. Users can brows
 ![Wishlist Screenshot](assets/wishlist.png)
 
 
+
 ## 🚀 Live Demo
 
 🔗 [View Live on Netlify](https://onlinestore090.netlify.app/)  
